@@ -8,5 +8,5 @@ import (
 func main() {
 	intr.Example("First Example")
 	intr.Example2("Second Example")
-	fmt.Println("Main Call")
+	fmt.Println("Not Main")
 }
